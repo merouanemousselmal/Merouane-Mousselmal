@@ -1,4 +1,3 @@
-# Merouane-Mousselmal
 # About Me
 
 Hi there! 👋 I'm Mousselmal Merouane, a Computer Science student and full-stack web developer. Welcome to my GitHub profile!
@@ -14,7 +13,7 @@ Hi there! 👋 I'm Mousselmal Merouane, a Computer Science student and full-stac
 
 Feel free to reach out to me through the following channels:
 
-- Email: merouane.mousselmal#gmail.com
+- Email: merouane.mousselmal@gmail.com
 - LinkedIn: https://www.linkedin.com/in/merouane-mousselmal-0985161a7/
 
  
