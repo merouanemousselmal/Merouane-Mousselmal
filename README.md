@@ -9,12 +9,7 @@ Hi there! 👋 I'm Mousselmal Merouane, a Computer Science student and full-stac
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
   
  
-## Get in Touch
-
-Feel free to reach out to me through the following channels:
-
-- Email: merouane.mousselmal@gmail.com
-- LinkedIn: https://www.linkedin.com/in/merouane-mousselmal-0985161a7/
+## Check out my [Portfolio](https://merouane.xyz)
 
  
 
